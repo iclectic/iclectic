@@ -1,4 +1,6 @@
-# Hi there! 👋
+# Hi there 👋, My name is Ibim Braide ( aka Tubo-ibim Braide)
+## Web Developer
+![Web Developer](https://media.licdn.com/dms/image/D4E16AQFcNZYvvVY2vA/profile-displaybackgroundimage-shrink_350_1400/0/1685452425047?e=1691020800&v=beta&t=-fyFQssCReh47uGodqFXHM6WJBT2oNTZeoOkrhpj3mA)
 
 ## Welcome to my GitHub profile! Here's a little bit about me:
 
@@ -8,4 +10,25 @@
 
 If you'd like to explore collaboration opportunities, discuss projects, or simply connect, feel free to reach out. I'm excited to engage with fellow developers and expand my network!
 
+## Skill and Experience:
+
+Javascript
+React
+Python
+Html 
+Css
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,py,html,css)](https://skills.thijs.gg)
+
+Skills: JS / REACT / PYTHON / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iclectic)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iclectic)](https://github.com/iclectic/github-readme-stats)
+
 Happy coding! 🚀
+
+
