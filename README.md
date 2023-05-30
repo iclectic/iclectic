@@ -12,7 +12,7 @@ If you'd like to explore collaboration opportunities, discuss projects, or simpl
 
 ## Skills:
 
-- JAVASCRIPT / REACT / PYTHON / HTML / CSS
+JAVASCRIPT / REACT / PYTHON / HTML / CSS
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,py,html,css)](https://skills.thijs.gg)
 
