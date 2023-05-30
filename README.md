@@ -10,19 +10,10 @@
 
 If you'd like to explore collaboration opportunities, discuss projects, or simply connect, feel free to reach out. I'm excited to engage with fellow developers and expand my network!
 
-## Skill and Experience:
+## Skills:
 
-Javascript
-React
-Python
-Html 
-Css
-
+JAVASCRIPT / REACT / PYTHON / HTML / CSS
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,py,html,css)](https://skills.thijs.gg)
-
-Skills: JS / REACT / PYTHON / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iclectic)  
