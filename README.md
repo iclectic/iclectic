@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Ibim Braide ( aka Tubo-ibim Braide)
+# Hi there 👋, my name is Ibim Braide ( aka Tubo-ibim Braide)
 ## Frontend Developer
 ![Web Developer](https://media.licdn.com/dms/image/D4E16AQFcNZYvvVY2vA/profile-displaybackgroundimage-shrink_350_1400/0/1685452425047?e=1691020800&v=beta&t=-fyFQssCReh47uGodqFXHM6WJBT2oNTZeoOkrhpj3mA)
 
