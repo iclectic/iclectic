@@ -10,6 +10,8 @@
 
 If you'd like to explore collaboration opportunities, discuss projects, or simply connect, feel free to reach out. I'm excited to engage with fellow developers and expand my network!
 
+Happy coding! 🚀
+
 ## Skills:
 
 JAVASCRIPT / REACT / PYTHON / HTML / CSS
@@ -21,6 +23,6 @@ JAVASCRIPT / REACT / PYTHON / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iclectic)](https://github.com/iclectic/github-readme-stats)
 
-Happy coding! 🚀
+
 
 
