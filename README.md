@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Ibim Braide ( aka Tubo-ibim Braide)
-## Frontend Developer
+## Frontend Developer / Aspiring Data Analyst
 ![Web Developer](https://media.licdn.com/dms/image/D4E16AQFcNZYvvVY2vA/profile-displaybackgroundimage-shrink_350_1400/0/1685452425047?e=1691020800&v=beta&t=-fyFQssCReh47uGodqFXHM6WJBT2oNTZeoOkrhpj3mA)
 
 ## Welcome to my GitHub profile! Here's a little bit about me:
@@ -12,7 +12,7 @@ Happy coding! 🚀
 
 ## Skills:
 
-JAVASCRIPT / REACT / PYTHON / HTML / CSS
+JAVASCRIPT / REACT / PYTHON / R / SQL / HTML / CSS /
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,py,html,css)](https://skills.thijs.gg)
 
