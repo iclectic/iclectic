@@ -2,11 +2,9 @@
 ## Frontend Developer / Aspiring Data Analyst
 ![Web Developer](https://media.licdn.com/dms/image/D4E16AQFcNZYvvVY2vA/profile-displaybackgroundimage-shrink_350_1400/0/1685452425047?e=1691020800&v=beta&t=-fyFQssCReh47uGodqFXHM6WJBT2oNTZeoOkrhpj3mA)
 
-## Welcome to my GitHub profile! Here's a little bit about me:
+## Welcome to my GitHub profile!
 
-- 👯 I'm open to collaborating on open source projects related to Python or JavaScript. I believe in the power of community-driven initiatives and would love to contribute to projects that make a positive impact.
-
-If you'd like to explore collaboration opportunities, discuss projects, or simply connect, feel free to reach out. I'm excited to engage with fellow developers and expand my network!
+- I believe in the power of community-driven initiatives and would love to contribute to projects that make a positive impact.
 
 Happy coding! 🚀
 
