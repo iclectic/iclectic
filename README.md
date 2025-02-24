@@ -1,12 +1,9 @@
 # Hi there 👋, my name is Ibim Braide ( aka Tubo-ibim Braide)
-## Frontend Developer / Aspiring Data Analyst
+## Code Bard
 ![Web Developer](https://media.licdn.com/dms/image/D4E16AQFcNZYvvVY2vA/profile-displaybackgroundimage-shrink_350_1400/0/1685452425047?e=1691020800&v=beta&t=-fyFQssCReh47uGodqFXHM6WJBT2oNTZeoOkrhpj3mA)
 
 ## Welcome to my GitHub profile!
 
-- I believe in the power of community-driven initiatives and would love to contribute to projects that make a positive impact.
-
-Happy coding! 🚀
 
 ## Skills:
 
